@@ -1,0 +1,12 @@
+{
+  "name": "vpn-websocket-tether",
+  "version": "1.0.0",
+  "description": "Servidor WebSocket para túnel VPN",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ws": "^8.13.0"
+  }
+}
